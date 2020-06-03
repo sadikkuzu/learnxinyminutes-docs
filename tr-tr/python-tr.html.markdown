@@ -11,7 +11,7 @@ lang: tr-tr
 filename: learnpython-tr.py
 ---
 
-Python,90ların başlarında Guido Van Rossum tarafından oluşturulmuştur. En popüler olan dillerden biridir. Beni Python'a aşık eden sebep onun syntax beraklığı. Çok basit bir çalıştırılabilir söz koddur.
+Python, 90'ların başlarında Guido Van Rossum tarafından oluşturulmuştur. En popüler olan dillerden biridir. Beni Python'a aşık eden sebep onun syntax berraklığı. Çok basit bir çalıştırılabilir sözde-koddur.
 
 Not: Bu makale Python 3 içindir. Eğer Python 2.7 öğrenmek istiyorsanız [burayı](http://learnxinyminutes.com/docs/pythonlegacy/) kontrol edebilirsiniz.
 
@@ -179,7 +179,7 @@ li[4]  # IndexError hatası oluşturur
 li[1:3]  # => [2, 4]
 # Başlangıç belirtmezseniz
 li[2:]  # => [4, 3]
-# Sonu belirtmesseniz
+# Sonu belirtmezseniz
 li[:3]  # => [1, 2, 4]
 # Her ikişer objeyi seçme
 li[::2]   # =>[1, 4]
